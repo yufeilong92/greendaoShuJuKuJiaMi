@@ -1,0 +1,2 @@
+# greendao数据库加密
+利用sqlcipher对greendao进行加密
